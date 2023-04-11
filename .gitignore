@@ -1,0 +1,3 @@
+#que ignore todo lo que contiene la carpeta data
+data
+#si escribo data/data.py no ignora toda la carpeta si no su fichero
